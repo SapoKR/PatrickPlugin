@@ -1,5 +1,6 @@
 # PatrickKR Plugin
-![2021-07-17_23 52 25](https://user-images.githubusercontent.com/59782214/126057019-5c7fa1db-3768-45e1-9adc-cf91aea3cca5.png)
+
+https://user-images.githubusercontent.com/59782214/126057224-63f0d7c8-cc4b-4e11-a060-f31d43891bf5.mp4
 
 ## Based on [hyeon-sample-plugin](https://github.com/qogusdn1017/hyeon-sample-plugin)
 

@@ -38,7 +38,7 @@ class PatrickEvent : Listener {
     fun onPlayerJoin(e: PlayerJoinEvent) {
         val scheduler = getServer().scheduler
         scheduler.scheduleSyncDelayedTask(getInstance(), {
-            e.player.kick(Component.text("3초 무적을 사용합니다."))
+            e.player.kick(Component.text("3초 무적임ㅋ"))
         }, 80L) //3초 + 입장 딜레이 1초
     }
 }
